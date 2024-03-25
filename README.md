@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+HEAD
+HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -160,3 +161,7 @@ For open source projects, say how it is licensed.
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
 >>>>>>> 0bd0844798fc11b11d82a59a6eb31be5632942bc
+=======
+# AgenciaN
+Tareas hasta la 7
+>>>>>>> f2b86a43022522524a779abf3c477a1fd4e2e0c9
